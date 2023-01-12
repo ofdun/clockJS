@@ -1,0 +1,20 @@
+body,
+html {
+    background-color: rgb(41, 40, 40);
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: cadetblue;
+    font-family: sans-serif;
+}
+
+#title {
+    margin-top: -10vh;
+    font-size: 6vw;
+    width: 500px;
+}
+
+#time {
+    font-size: 12vw;
+}
